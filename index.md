@@ -11,6 +11,7 @@ author: Caleb Curry
 <link rel="stylesheet" href="assets/css/custom.css">
 
 ## Roles I'm Qualified for...
+Not much TBH
 
 ### Full Stack Software Engineer
 
